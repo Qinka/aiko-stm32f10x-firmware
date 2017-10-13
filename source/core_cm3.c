@@ -20,7 +20,7 @@
  * CONSEQUENTIAL DAMAGES, FOR ANY REASON WHATSOEVER.
  *
  ******************************************************************************/
-
+#include "inner.h"
 #include <stdint.h>
 
 /* define compiler specific symbols */

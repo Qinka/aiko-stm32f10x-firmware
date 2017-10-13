@@ -20,6 +20,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+#include "inner.h"
 #include "stm32f10x_can.h"
 #include "stm32f10x_rcc.h"
 
