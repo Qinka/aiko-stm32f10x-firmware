@@ -1,2 +1,4 @@
 
-void assert_param(void*);
+void assert_param(void* data) {
+  return;
+}
