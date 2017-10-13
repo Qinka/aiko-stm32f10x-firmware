@@ -20,6 +20,7 @@
   */
 
 /* Includes ------------------------------------------------------------------*/
+extern void assert_param(void* data);
 #include "stm32f10x_gpio.h"
 #include "stm32f10x_rcc.h"
 
